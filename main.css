@@ -1,5 +1,6 @@
 .hero-section {
-    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-high-grade-black-jewelry-luxurious-image_17324.jpg');
+    /* https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-high-grade-black-jewelry-luxurious-image_17324.jpg */
+    background-image: url('src/img/wallpaperflare.com_wallpaper\(1\).jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -33,7 +34,7 @@
 .hero-content h1{
     font-size: 75px;
 }
-
+/* 
 .category-cards {
     padding: 4rem 0;
 }
@@ -115,4 +116,4 @@
     background: linear-gradient(to right, #ffffff, transparent);
     bottom: -10px;
     left: 25%;
-}
+} */
